@@ -1,16 +1,13 @@
-### Hi there 👋
 
-<!--
-**simonespinedi/simonespinedi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🔗---------------------------------------- 🌐 -------------------------------------- 🔗
+<div class="row">
+   <div class="column">
+<p>My name is Simone,
+I'm an Italian passionate about the Tech World. My main expertise is on Network Engineering. Stuff like tweak protocols, create tunnels, filtering traffic and so on.</p>
 
-Here are some ideas to get you started:
+Anyway, I don't want to be a self-bottleneck. So i started growing skills on system administration, automation and development.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+My life motto is <b>"I'm not the G.O.A.T but i fit the description"</b>, an absolute quote from Lil Baby in the song "Want and Needs" with Drake. Standing to my motto, i do not pretend to be expert in any area, but i can give my contribution.
+
+<p><b>What you can find here?</b></p>
+My growth. Me expanding my abiities. And maybe something useful.
