@@ -1,4 +1,4 @@
-### 🔗---------------------------------------- 🌐 -------------------------------------- 🔗
+### 🔗---------------------------------------- 🌐 ------------------------------------------ 🔗
 
 My name is Simone,I'm an Italian passionate about the Tech World. My main expertise is on Network Engineering. Stuff like tweak protocols, create tunnels, filtering traffic and so on.
 
@@ -8,5 +8,7 @@ My life motto is **"I'm not the G.O.A.T but i fit the description"**, an absolut
 
 <p><b>What you can find here?</b></p>
 My growth. Me expanding my abiities. And maybe something useful.
+
+
 
 
