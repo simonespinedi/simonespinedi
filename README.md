@@ -10,3 +10,4 @@ My life motto is <b>"I'm not the G.O.A.T but i fit the description"</b>, an abso
 
 <p><b>What you can find here?</b></p>
 My growth. Me expanding my abiities. And maybe something useful.
+</div class="column">
